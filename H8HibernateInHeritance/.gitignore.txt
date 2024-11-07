@@ -1,0 +1,27 @@
+# Ignore Maven target directory
+target/
+
+# Ignore build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files (e.g., IntelliJ IDEA, Eclipse, STS)
+.idea/
+*.iml
+*.project
+*.classpath
+.settings/
+
+# Ignore temporary and backup files
+*.tmp
+*.bak
+*.swp
